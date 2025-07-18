@@ -1,0 +1,98 @@
+Network era transformation:
+Began with the PC era: x86 architecture computers
+Then, mobile internet era: ARM architecture mobile phones
+Lastly, IOT era: x86, ARM, DSP, MIPS, FPGA, etc..
+
+Disadvantages of Conventional IT architecture:
+- Slow service rollout
+- Difficult expansion
+- Low reliability
+- Complex lifecycle management
+- Latency caused by I/O bottlenecks
+- High TCO
+
+
+With Virtualization technology computers operate on the virtual environment and not on the physical environment. Meaning, components that are dealt with are the virtual layer components and not the real physical components (CPU, RAM, DISK, etc..). 
+Virtualization maximizes the utilization of physical hardware.
+
+
+Advantages of Cloud transformation:
+- From resource silos to resource pooling (Shared resources instead of isolated ones)
+- From centralized architecture to distributed architecture (Services spread across multiple locations/nodes)
+- From dedicated hardware to software-defined storage (SDS) (Storage managed by software, not tied to specific devices)
+- From manual handling to self-service and automatic service (Automation and user-driven provisioning)
+- From distributed statistics to unified metering (Centralized tracking and usage reporting)
+
+
+
+Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of
+configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly
+provisioned and released with minimal management effort or service provider interaction.
+
+
+Advantages of Cloud computing:
+- On-demand, self-service
+- Broad network access
+- Resource pooling
+- Quick deployment and auto-scaling
+- Measured service
+
+
+
+Key Cloud computing technologies:
+- Virtualization Technology - the cornerstone of cloud computing
+- Data Storage Technology - aims at distributed, high-throughput, high transmission rate
+- Massive Data Management Technology - aims at better update/read rate
+
+
+Additional 2 (important) Cloud computing technologies:
+
+* Programming mode: Cloud computing provides a distributed computing
+mode, which objectively requires a distributed programming mode. Cloud
+computing adopts a simple distributed parallel programming model Map-
+Reduce. Map-Reduce is a programming model and task scheduling model.
+It is mainly used for parallel computing of data sets and scheduling of
+parallel tasks. In this mode, Users only need to compile Map and Reduce
+functions to perform parallel computing.
+
+* Cloud computing platform management technology: Cloud computing
+resources are huge, servers are numerous and distributed in different places,
+and hundreds of applications are running at the same time. How to
+effectively manage these servers and ensure that the entire system provides
+uninterrupted services is a huge challenge.
+
+
+
+
+
+Virtualization Technology
+- A Virtual machine(VM) consists of disk files and description files, which are
+encapsulated in the same folder.
+- Multiple VMs running on the server are encapsulated and isolated from
+each other. That is, multiple folders exist.
+- The essence of virtualization is to logically convert a physical device into a
+folder or file to decouple software and hardware.
+
+
+
+Eight Common Characteristics of Cloud Computing:
+- Massive scale
+- Homogeneity - standardization (Voltage and socket interface should be the same for
+various electrical appliances and devices) 
+- Virtualization - accurate computing units
+- Resilient computing
+- Low-cost software
+- Advanced security technologies
+- Geographical distribution
+- Service orientation
+
+
+Deployment Models for Cloud Computing:
+- Private cloud: The cloud infrastructure is provisioned for exclusive use by a single organization. (ingress firewalls, maximum data protection)
+- Public cloud: The cloud infrastructure is owned and managed by a third-party provider and shared with multiple
+organizations using the public Internet.
+- Hybrid cloud: This is a combination of public and private clouds, viewed as a single cloud externally.
+
+
+
+
